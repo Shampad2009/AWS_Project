@@ -1,0 +1,1 @@
+This is an AWS project through shell script. In this project, I have created S3 bucket, Lambda fucntion,SNS and IAM role. Here Lambda function invoked when S3 bucket is uploaded with any file and instructed SNS to send the message to my mail address. 
